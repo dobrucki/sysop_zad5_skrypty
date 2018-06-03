@@ -51,7 +51,7 @@ function zaczekaj_na_innych() { #numer_filozofa liczba_filozofow deskryptor_plik
 	done
     else
 	komunikat $1 "Nie udało się założyć blokady wyłącznej na pliku blokady $4"
-	echo "sygnalizacja obecności" &gt;$5
+	echo "sygnalizacja obecności">$5
 	komunikat $1 "Próbuję założyć blokadę wyłączna na pliku $4"
 	flock -x $3
         komunikat $1 "Założyłem blokadę wyłączną na pliku $4"
