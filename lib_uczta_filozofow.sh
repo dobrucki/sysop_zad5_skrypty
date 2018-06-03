@@ -67,9 +67,9 @@ function filozof { #numer_filozofa liczba_filozofów liczba_posiłków plik_blok
     DESKRYPTOR_BLOKADY=$((150+$1%100))
     DESKRYPTOR_WIDELEC_1=111
     DESKRYPTOR_WIDELEC_2=121
-    eval "exec ${DESKRYPTOR_BLOKADY}&gt;${4}"
-    eval "exec ${DESKRYPTOR_WIDELEC_1}&gt;${6}"
-    eval "exec ${DESKRYPTOR_WIDELEC_2}&gt;${7}"
+    eval "exec ${DESKRYPTOR_BLOKADY}>${4}"
+    eval "exec ${DESKRYPTOR_WIDELEC_1}>${6}"
+    eval "exec ${DESKRYPTOR_WIDELEC_2}>${7}"
 
     declare -i LICZBA_ZJEDZONYCH_POSILKOW=0
 
