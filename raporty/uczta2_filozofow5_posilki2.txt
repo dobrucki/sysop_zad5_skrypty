@@ -1,158 +1,158 @@
-2018-06-06 14:43:48.827385061 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2 Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2_fifo Plik widelca pierwszego: Stol_xcQt/1 Plik drugiego widelca: Stol_xcQt/5 Czas konsumpcji: losowy Czas rozmyślania: losowy
-2018-06-06 14:43:48.839545815 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję podnieść widelec WID:Stol_xcQt/1 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.844605423 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2 Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2_fifo Plik widelca pierwszego: Stol_xcQt/1 Plik drugiego widelca: Stol_xcQt/2 Czas konsumpcji: losowy Czas rozmyślania: losowy
-2018-06-06 14:43:48.845767793 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2 Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2_fifo Plik widelca pierwszego: Stol_xcQt/4 Plik drugiego widelca: Stol_xcQt/5 Czas konsumpcji: losowy Czas rozmyślania: losowy
-2018-06-06 14:43:48.848345481 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Podniosłem widelec WID:Stol_xcQt/1 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.856878616 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję podnieść widelec WID:Stol_xcQt/5 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.841866138 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2 Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2_fifo Plik widelca pierwszego: Stol_xcQt/3 Plik drugiego widelca: Stol_xcQt/4 Czas konsumpcji: losowy Czas rozmyślania: losowy
-2018-06-06 14:43:48.854229032 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję podnieść widelec WID:Stol_xcQt/1 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.851133296 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2 Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2_fifo Plik widelca pierwszego: Stol_xcQt/2 Plik drugiego widelca: Stol_xcQt/3 Czas konsumpcji: losowy Czas rozmyślania: losowy
-2018-06-06 14:43:48.865487666 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję podnieść widelec WID:Stol_xcQt/3 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.862954450 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję podnieść widelec WID:Stol_xcQt/4 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.867177489 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Podniosłem widelec WID:Stol_xcQt/5 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.866422990 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję podnieść widelec WID:Stol_xcQt/2 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.887304127 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 0.21422 sek., posiłek 1
-2018-06-06 14:43:48.871083237 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Podniosłem widelec WID:Stol_xcQt/3 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.890255110 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Podniosłem widelec WID:Stol_xcQt/2 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.894768795 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Podniosłem widelec WID:Stol_xcQt/4 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.898367028 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję podnieść widelec WID:Stol_xcQt/4 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.899550735 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję podnieść widelec WID:Stol_xcQt/5 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:48.898248599 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję podnieść widelec WID:Stol_xcQt/3 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.138445099 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Zakończyłem jedzenie posiłku 1
-2018-06-06 14:43:49.141631171 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_xcQt/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.146237364 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Odłożyłem wiedelec WID:Stol_xcQt/5 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.146300965 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Podniosłem widelec WID:Stol_xcQt/5 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.149073019 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 0.10899 sek., posiłek 1
-2018-06-06 14:43:49.149032326 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_xcQt/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.153790316 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Podniosłem widelec WID:Stol_xcQt/1 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.153760363 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Odłożyłem wiedelec WID:Stol_xcQt/1 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.159075813 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję podnieść widelec WID:Stol_xcQt/2 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.159665588 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.21072 sek. ostatni zjedzony posiłek 1
-2018-06-06 14:43:49.280012677 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Zakończyłem jedzenie posiłku 1
-2018-06-06 14:43:49.283400503 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_xcQt/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.287484710 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Odłożyłem wiedelec WID:Stol_xcQt/5 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.290275306 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_xcQt/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.295716211 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Podniosłem widelec WID:Stol_xcQt/4 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.295716219 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Odłożyłem wiedelec WID:Stol_xcQt/4 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.299703975 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.19342 sek. ostatni zjedzony posiłek 1
-2018-06-06 14:43:49.299634233 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 0.15145 sek., posiłek 1
-2018-06-06 14:43:49.399262930 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 1
-2018-06-06 14:43:49.402962281 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
-2018-06-06 14:43:49.407223397 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:49.458152751 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Zakończyłem jedzenie posiłku 1
-2018-06-06 14:43:49.462867905 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_xcQt/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.468759273 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Odłożyłem wiedelec WID:Stol_xcQt/4 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.471700814 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_xcQt/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.477364107 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Podniosłem widelec WID:Stol_xcQt/3 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.478582034 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Odłożyłem wiedelec WID:Stol_xcQt/3 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.482484045 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 0.29026 sek., posiłek 1
-2018-06-06 14:43:49.485703854 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.10287 sek. ostatni zjedzony posiłek 1
-2018-06-06 14:43:49.497413026 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 1
-2018-06-06 14:43:49.502526670 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
-2018-06-06 14:43:49.506607234 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:49.509873397 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:49.744483765 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 1
-2018-06-06 14:43:49.749805429 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
-2018-06-06 14:43:49.755898011 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:49.759430363 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:49.785069762 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Zakończyłem jedzenie posiłku 1
-2018-06-06 14:43:49.789781265 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_xcQt/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.797234576 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Odłożyłem wiedelec WID:Stol_xcQt/3 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.800146849 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_xcQt/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.806320872 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Odłożyłem wiedelec WID:Stol_xcQt/2 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.808465465 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Podniosłem widelec WID:Stol_xcQt/2 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:49.815514477 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.26879 sek. ostatni zjedzony posiłek 1
-2018-06-06 14:43:49.820908807 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 0.10892 sek., posiłek 1
-2018-06-06 14:43:49.938324808 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Zakończyłem jedzenie posiłku 1
-2018-06-06 14:43:49.942454655 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_xcQt/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.947097861 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Odłożyłem wiedelec WID:Stol_xcQt/2 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.949707912 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_xcQt/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.954303430 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Odłożyłem wiedelec WID:Stol_xcQt/1 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:49.958188399 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.2481 sek. ostatni zjedzony posiłek 1
-2018-06-06 14:43:50.164424908 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 1
-2018-06-06 14:43:50.169811631 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
-2018-06-06 14:43:50.174614717 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.177439651 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.210717505 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 1
-2018-06-06 14:43:50.213362459 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
-2018-06-06 14:43:50.217683975 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.220406525 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.223912306 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.223912327 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.229399049 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
-2018-06-06 14:43:50.237692594 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.241866941 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.241890164 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję podnieść widelec WID:Stol_xcQt/1 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.244374878 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
-2018-06-06 14:43:50.253647343 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.254528265 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.257623248 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Podniosłem widelec WID:Stol_xcQt/1 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.256321049 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję podnieść widelec WID:Stol_xcQt/3 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.261062609 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
-2018-06-06 14:43:50.270674193 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.271105071 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.276522304 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Podniosłem widelec WID:Stol_xcQt/3 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.274309767 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję podnieść widelec WID:Stol_xcQt/5 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.277800789 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
-2018-06-06 14:43:50.277231357 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję podnieść widelec WID:Stol_xcQt/2 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.280161083 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_JYq2
-2018-06-06 14:43:50.283306018 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję podnieść widelec WID:Stol_xcQt/4 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.286173462 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
-2018-06-06 14:43:50.287928101 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję podnieść widelec WID:Stol_xcQt/4 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.295226619 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Podniosłem widelec WID:Stol_xcQt/5 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.306032741 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Podniosłem widelec WID:Stol_xcQt/4 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.300709145 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję podnieść widelec WID:Stol_xcQt/1 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.304377089 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Podniosłem widelec WID:Stol_xcQt/2 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.311025337 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję podnieść widelec WID:Stol_xcQt/3 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.307316036 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 0.11033 sek., posiłek 2
-2018-06-06 14:43:50.310498315 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 0.17615 sek., posiłek 2
-2018-06-06 14:43:50.450223018 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Zakończyłem jedzenie posiłku 2
-2018-06-06 14:43:50.454362167 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_xcQt/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.458772467 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Odłożyłem wiedelec WID:Stol_xcQt/5 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.461568640 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_xcQt/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.465879810 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Odłożyłem wiedelec WID:Stol_xcQt/1 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.465880660 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Podniosłem widelec WID:Stol_xcQt/1 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.470648615 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.13780 sek. ostatni zjedzony posiłek 2
-2018-06-06 14:43:50.470515326 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję podnieść widelec WID:Stol_xcQt/2 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.492371026 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Zakończyłem jedzenie posiłku 2
-2018-06-06 14:43:50.498450431 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_xcQt/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.503898803 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Odłożyłem wiedelec WID:Stol_xcQt/4 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.503901907 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Podniosłem widelec WID:Stol_xcQt/4 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.506167744 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_xcQt/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.506903834 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję podnieść widelec WID:Stol_xcQt/5 (Próba założenia blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.514933758 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Podniosłem widelec WID:Stol_xcQt/3 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.515858364 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Odłożyłem wiedelec WID:Stol_xcQt/3 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.521606061 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 0.24114 sek., posiłek 2
-2018-06-06 14:43:50.513506362 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Podniosłem widelec WID:Stol_xcQt/5 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.524500459 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.5369 sek. ostatni zjedzony posiłek 2
-2018-06-06 14:43:50.527027968 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 0.30848 sek., posiłek 2
-2018-06-06 14:43:50.614520303 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 2
-2018-06-06 14:43:50.618051029 216748.it.p.lodz.pl PID:  7954 FilozofID:  5 ___STOP___ Liczba zjedzonych posiłków 2
-2018-06-06 14:43:50.781723591 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Zakończyłem jedzenie posiłku 2
-2018-06-06 14:43:50.784743370 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_xcQt/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.788780579 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Odłożyłem wiedelec WID:Stol_xcQt/3 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.791328594 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_xcQt/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.796282753 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Podniosłem widelec WID:Stol_xcQt/2 (Uzyskanie blokady wyłącznej na pliku widelca)
-2018-06-06 14:43:50.796874908 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Odłożyłem wiedelec WID:Stol_xcQt/2 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.799574399 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 0.21676 sek., posiłek 2
-2018-06-06 14:43:50.803287111 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.23916 sek. ostatni zjedzony posiłek 2
-2018-06-06 14:43:50.850423593 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Zakończyłem jedzenie posiłku 2
-2018-06-06 14:43:50.853108713 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_xcQt/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.857199415 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Odłożyłem wiedelec WID:Stol_xcQt/5 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.860060273 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_xcQt/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.865197973 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Odłożyłem wiedelec WID:Stol_xcQt/4 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:50.868406623 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.14140 sek. ostatni zjedzony posiłek 2
-2018-06-06 14:43:51.040551591 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Zakończyłem jedzenie posiłku 2
-2018-06-06 14:43:51.041165490 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 2
-2018-06-06 14:43:51.043742780 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_xcQt/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:51.045330320 216748.it.p.lodz.pl PID:  7956 FilozofID:  4 ___STOP___ Liczba zjedzonych posiłków 2
-2018-06-06 14:43:51.048653443 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Odłożyłem wiedelec WID:Stol_xcQt/2 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:51.048463629 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 2
-2018-06-06 14:43:51.051508300 216748.it.p.lodz.pl PID:  7969 FilozofID:  2 ___STOP___ Liczba zjedzonych posiłków 2
-2018-06-06 14:43:51.051508551 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_xcQt/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:51.056741807 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Odłożyłem wiedelec WID:Stol_xcQt/1 (Zdjęcie blokady wyłącznej z pliku widelca)
-2018-06-06 14:43:51.060561935 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.534 sek. ostatni zjedzony posiłek 2
-2018-06-06 14:43:51.068348038 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 2
-2018-06-06 14:43:51.073098462 216748.it.p.lodz.pl PID:  7962 FilozofID:  3 ___STOP___ Liczba zjedzonych posiłków 2
-2018-06-06 14:43:51.600566565 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 2
-2018-06-06 14:43:51.603442918 216748.it.p.lodz.pl PID:  7952 FilozofID:  1 ___STOP___ Liczba zjedzonych posiłków 2
+2018-06-06 22:34:16.409284869 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl_fifo Plik widelca pierwszego: Stol_3hMI/4 Plik drugiego widelca: Stol_3hMI/5 Czas konsumpcji: losowy Czas rozmyślania: losowy
+2018-06-06 22:34:16.411674453 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl_fifo Plik widelca pierwszego: Stol_3hMI/3 Plik drugiego widelca: Stol_3hMI/4 Czas konsumpcji: losowy Czas rozmyślania: losowy
+2018-06-06 22:34:16.413662451 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl_fifo Plik widelca pierwszego: Stol_3hMI/1 Plik drugiego widelca: Stol_3hMI/5 Czas konsumpcji: losowy Czas rozmyślania: losowy
+2018-06-06 22:34:16.415564862 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję podnieść widelec WID:Stol_3hMI/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.412619227 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl_fifo Plik widelca pierwszego: Stol_3hMI/1 Plik drugiego widelca: Stol_3hMI/2 Czas konsumpcji: losowy Czas rozmyślania: losowy
+2018-06-06 22:34:16.415136961 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 ___START___ Liczba filozofów: 5 Liczba posiłków: 2 Plik blokady bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl Plik potoku bariery: /home/dobrucki/sysop_zad5_skrypty/Sync_waEl_fifo Plik widelca pierwszego: Stol_3hMI/2 Plik drugiego widelca: Stol_3hMI/3 Czas konsumpcji: losowy Czas rozmyślania: losowy
+2018-06-06 22:34:16.413832961 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję podnieść widelec WID:Stol_3hMI/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.416225698 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję podnieść widelec WID:Stol_3hMI/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.418779046 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję podnieść widelec WID:Stol_3hMI/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.419166074 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję podnieść widelec WID:Stol_3hMI/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.420305004 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Podniosłem widelec WID:Stol_3hMI/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.420814291 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Podniosłem widelec WID:Stol_3hMI/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.423429425 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję podnieść widelec WID:Stol_3hMI/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.427166063 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Podniosłem widelec WID:Stol_3hMI/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.428644601 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 0.31590 sek., posiłek 1
+2018-06-06 22:34:16.422697635 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Podniosłem widelec WID:Stol_3hMI/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.425476298 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Podniosłem widelec WID:Stol_3hMI/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.430800227 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję podnieść widelec WID:Stol_3hMI/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.431571269 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję podnieść widelec WID:Stol_3hMI/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.432373062 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję podnieść widelec WID:Stol_3hMI/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.816808601 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Zakończyłem jedzenie posiłku 1
+2018-06-06 22:34:16.823779927 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_3hMI/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:16.834230878 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Podniosłem widelec WID:Stol_3hMI/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.836589092 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Odłożyłem wiedelec WID:Stol_3hMI/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:16.849024401 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_3hMI/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:16.864818764 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Podniosłem widelec WID:Stol_3hMI/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.844433426 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 0.20769 sek., posiłek 1
+2018-06-06 22:34:16.869998644 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję podnieść widelec WID:Stol_3hMI/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:16.873105569 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Odłożyłem wiedelec WID:Stol_3hMI/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:16.916447405 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.3735 sek. ostatni zjedzony posiłek 1
+2018-06-06 22:34:17.123102423 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Zakończyłem jedzenie posiłku 1
+2018-06-06 22:34:17.125172669 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_3hMI/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.128233663 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Odłożyłem wiedelec WID:Stol_3hMI/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.132373987 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_3hMI/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.141030895 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Podniosłem widelec WID:Stol_3hMI/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:17.141844888 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Odłożyłem wiedelec WID:Stol_3hMI/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.147896479 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 0.21877 sek., posiłek 1
+2018-06-06 22:34:17.148652832 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.25635 sek. ostatni zjedzony posiłek 1
+2018-06-06 22:34:17.335019468 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 1
+2018-06-06 22:34:17.338274255 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
+2018-06-06 22:34:17.347321348 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:17.378636857 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Zakończyłem jedzenie posiłku 1
+2018-06-06 22:34:17.382999749 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_3hMI/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.390068112 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Odłożyłem wiedelec WID:Stol_3hMI/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.394116246 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_3hMI/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.400009665 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Odłożyłem wiedelec WID:Stol_3hMI/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.400061186 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Podniosłem widelec WID:Stol_3hMI/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:17.402217793 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 0.28457 sek., posiłek 1
+2018-06-06 22:34:17.402301233 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.642 sek. ostatni zjedzony posiłek 1
+2018-06-06 22:34:17.418317802 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 1
+2018-06-06 22:34:17.420349980 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
+2018-06-06 22:34:17.423548904 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:17.426031071 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:17.699843611 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Zakończyłem jedzenie posiłku 1
+2018-06-06 22:34:17.705456819 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_3hMI/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.711307667 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Odłożyłem wiedelec WID:Stol_3hMI/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.714908858 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_3hMI/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.719785014 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Podniosłem widelec WID:Stol_3hMI/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:17.719934427 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Odłożyłem wiedelec WID:Stol_3hMI/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.722764278 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 0.11103 sek., posiłek 1
+2018-06-06 22:34:17.724710255 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.479 sek. ostatni zjedzony posiłek 1
+2018-06-06 22:34:17.844149949 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Zakończyłem jedzenie posiłku 1
+2018-06-06 22:34:17.851140290 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_3hMI/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.862047281 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Odłożyłem wiedelec WID:Stol_3hMI/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.868805821 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_3hMI/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.886531605 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Odłożyłem wiedelec WID:Stol_3hMI/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:17.893240177 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.6371 sek. ostatni zjedzony posiłek 1
+2018-06-06 22:34:18.050975549 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 1
+2018-06-06 22:34:18.057393440 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
+2018-06-06 22:34:18.068527403 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.077156317 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.213732085 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 1
+2018-06-06 22:34:18.220904495 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
+2018-06-06 22:34:18.233263376 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.240371017 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.543085354 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 1
+2018-06-06 22:34:18.546285150 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 ___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 1
+2018-06-06 22:34:18.551073519 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Nie udało się założyć blokady wyłącznej na pliku blokady /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.554396998 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję założyć blokadę wyłączna na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.559115145 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.560224837 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.565328907 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.565270854 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2018-06-06 22:34:18.570275781 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.568084264 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.576079813 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Założyłem blokadę wyłączną na pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.571525071 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.576980274 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.573702500 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję podnieść widelec WID:Stol_3hMI/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.581075201 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2018-06-06 22:34:18.582731297 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2018-06-06 22:34:18.582035905 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2018-06-06 22:34:18.584357570 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję podnieść widelec WID:Stol_3hMI/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.585259751 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Zdjąłem blokadę wyłączną z pliku /home/dobrucki/sysop_zad5_skrypty/Sync_waEl
+2018-06-06 22:34:18.586781489 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję podnieść widelec WID:Stol_3hMI/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.587275652 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Podniosłem widelec WID:Stol_3hMI/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.587753843 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję podnieść widelec WID:Stol_3hMI/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.591013270 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Podniosłem widelec WID:Stol_3hMI/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.590042045 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2018-06-06 22:34:18.592934488 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję podnieść widelec WID:Stol_3hMI/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.595153821 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję podnieść widelec WID:Stol_3hMI/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.596121867 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję podnieść widelec WID:Stol_3hMI/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.595606089 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Podniosłem widelec WID:Stol_3hMI/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.598194776 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Podniosłem widelec WID:Stol_3hMI/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.600619706 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 0.27432 sek., posiłek 2
+2018-06-06 22:34:18.600625899 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję podnieść widelec WID:Stol_3hMI/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.601202488 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Podniosłem widelec WID:Stol_3hMI/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.603003184 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję podnieść widelec WID:Stol_3hMI/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.895354737 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Zakończyłem jedzenie posiłku 2
+2018-06-06 22:34:18.903936869 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_3hMI/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:18.932271382 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Podniosłem widelec WID:Stol_3hMI/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.927066465 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Odłożyłem wiedelec WID:Stol_3hMI/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:18.938298208 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 0.28113 sek., posiłek 2
+2018-06-06 22:34:18.941143660 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_3hMI/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:18.948845804 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Podniosłem widelec WID:Stol_3hMI/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.949365976 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Odłożyłem wiedelec WID:Stol_3hMI/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:18.951722642 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję podnieść widelec WID:Stol_3hMI/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:18.952765038 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.6053 sek. ostatni zjedzony posiłek 2
+2018-06-06 22:34:19.228971142 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Zakończyłem jedzenie posiłku 2
+2018-06-06 22:34:19.234192469 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_3hMI/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.240874496 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Odłożyłem wiedelec WID:Stol_3hMI/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.245607986 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_3hMI/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.253110723 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Podniosłem widelec WID:Stol_3hMI/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:19.253079268 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Odłożyłem wiedelec WID:Stol_3hMI/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.259284081 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.28994 sek. ostatni zjedzony posiłek 2
+2018-06-06 22:34:19.258054509 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 0.18942 sek., posiłek 2
+2018-06-06 22:34:19.458809630 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Zakończyłem jedzenie posiłku 2
+2018-06-06 22:34:19.465593981 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_3hMI/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.476971038 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Odłożyłem wiedelec WID:Stol_3hMI/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.484248857 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_3hMI/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.499602256 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Odłożyłem wiedelec WID:Stol_3hMI/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.503288872 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.31816 sek. ostatni zjedzony posiłek 2
+2018-06-06 22:34:19.506284035 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Podniosłem widelec WID:Stol_3hMI/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:19.509766829 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 0.28015 sek., posiłek 2
+2018-06-06 22:34:19.563122635 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 2
+2018-06-06 22:34:19.563140673 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 2
+2018-06-06 22:34:19.566321381 216748.it.p.lodz.pl PID: 15784 FilozofID:  5 ___STOP___ Liczba zjedzonych posiłków 2
+2018-06-06 22:34:19.567563747 216748.it.p.lodz.pl PID: 15783 FilozofID:  4 ___STOP___ Liczba zjedzonych posiłków 2
+2018-06-06 22:34:19.797607939 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Zakończyłem jedzenie posiłku 2
+2018-06-06 22:34:19.803204480 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_3hMI/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.815763874 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Odłożyłem wiedelec WID:Stol_3hMI/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.822600652 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_3hMI/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.828823419 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 2
+2018-06-06 22:34:19.839082928 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Podniosłem widelec WID:Stol_3hMI/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2018-06-06 22:34:19.839669767 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Odłożyłem wiedelec WID:Stol_3hMI/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:19.846964760 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.13309 sek. ostatni zjedzony posiłek 2
+2018-06-06 22:34:19.846023498 216748.it.p.lodz.pl PID: 15788 FilozofID:  3 ___STOP___ Liczba zjedzonych posiłków 2
+2018-06-06 22:34:19.848133777 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 0.6286 sek., posiłek 2
+2018-06-06 22:34:19.992575539 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 2
+2018-06-06 22:34:19.996474497 216748.it.p.lodz.pl PID: 15787 FilozofID:  2 ___STOP___ Liczba zjedzonych posiłków 2
+2018-06-06 22:34:20.486251938 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Zakończyłem jedzenie posiłku 2
+2018-06-06 22:34:20.493482612 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_3hMI/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:20.505468894 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Odłożyłem wiedelec WID:Stol_3hMI/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:20.513489682 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_3hMI/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:20.526140687 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Odłożyłem wiedelec WID:Stol_3hMI/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2018-06-06 22:34:20.530629829 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.15056 sek. ostatni zjedzony posiłek 2
+2018-06-06 22:34:20.692698937 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 2
+2018-06-06 22:34:20.699599097 216748.it.p.lodz.pl PID: 15785 FilozofID:  1 ___STOP___ Liczba zjedzonych posiłków 2
