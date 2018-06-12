@@ -86,11 +86,11 @@ function filozof { #numer_filozofa liczba_filozofów liczba_posiłków plik_blok
 
 	rozmyslaj $1 $LICZBA_ZJEDZONYCH_POSILKOW $9
 
-	if [[ $LICZBA_ZJEDZONYCH_POSILKOW -eq $((${3}-${3}/2)) ]]
+	if [[ $LICZBA_ZJEDZONYCH_POSILKOW -eq $((${3}-1)) ]]
 	then
-	    komunikat $1 "___POLOWA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków $LICZBA_ZJEDZONYCH_POSILKOW"
+	    komunikat $1 "___PRZEDOSTATNI___ Dotarłem do przedostatniego posiłku uczty, liczba dotychczas zjedzonych posiłków $LICZBA_ZJEDZONYCH_POSILKOW"
 	    zaczekaj_na_innych $1 $2 $DESKRYPTOR_BLOKADY $4 $5
-	    komunikat $1 "Wszyscy filozofowie dotarli do połowy uczty, kontynuuję..."
+	    komunikat $1 "Wszyscy filozofowie dotarli do przedostatniego posiłku uczty, kontynuuję..."
 	fi
     done
 
