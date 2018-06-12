@@ -34,7 +34,7 @@ do
     touch $SCIEZKA_WIDELCA || (echo "Nie udało się utworzyć pliku reprezentującego widelec $(realpath ${SCIEZKA_WIDELCA})"; exit 6)
 done
 
-for NUMER_FILOZOFA in $(shuf -i1-$LICZBA_FILOZOFOW)
+for NUMER_FILOZOFA in $(seq $LICZBA_FILOZOFOW)
 do
 
 	PIERWSZY_WIDELEC=$NUMER_FILOZOFA
